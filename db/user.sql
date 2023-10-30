@@ -1,0 +1,4 @@
+CREATE TABLE user (
+	id VARCHAR(15) NOT NULL PRIMARY KEY,
+	username TEXT,
+);
